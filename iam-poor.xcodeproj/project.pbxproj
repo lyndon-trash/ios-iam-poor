@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F0443E7D24D676F100583096 /* iam-poor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iam-poor.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F0443E7D24D676F100583096 /* I Am Poor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I Am Poor.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0443E8024D676F100583096 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F0443E8224D676F100583096 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		F0443E8424D676F100583096 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		F0443E7E24D676F100583096 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F0443E7D24D676F100583096 /* iam-poor.app */,
+				F0443E7D24D676F100583096 /* I Am Poor.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = "iam-poor";
 			productName = "iam-poor";
-			productReference = F0443E7D24D676F100583096 /* iam-poor.app */;
+			productReference = F0443E7D24D676F100583096 /* I Am Poor.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -292,7 +292,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "info.startupbuilder.iam-poor";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "I Am Poor";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -310,7 +310,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "info.startupbuilder.iam-poor";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "I Am Poor";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
